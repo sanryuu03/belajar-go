@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.6 (2023-11-16)
+
+- variable
+- run tanpa build => go run variable.go
+
 ## v1.0.5 (2023-11-16)
 
 - string
