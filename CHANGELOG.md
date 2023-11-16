@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.8 (2023-11-16)
+
+- conversion => konversi tipe data
+- run tanpa build => go run conversion.go
+
 ## v1.0.7 (2023-11-16)
 
 - constant => tidak bisa merubah value lagi dari varibale, cukup 1x deklarasi
