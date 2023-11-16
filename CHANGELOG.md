@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.5 (2023-11-16)
+
+- string
+- run tanpa build => go run string.go
+
 ## v1.0.4 (2023-11-16)
 
 - boolean
