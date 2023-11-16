@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.7 (2023-11-16)
+
+- constant => tidak bisa merubah value lagi dari varibale, cukup 1x deklarasi
+- run tanpa build => go run constant.go
+
 ## v1.0.6 (2023-11-16)
 
 - variable
