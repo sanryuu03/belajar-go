@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.3 (2023-11-16)
+
+- number
+- run tanpa build => go run number.go
+
 ## v1.0.2 (2023-11-15)
 
 - Hello World
