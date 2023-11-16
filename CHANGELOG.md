@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.13 (2023-11-16)
+
+- array
+- run tanpa build => go run array.go
+
 ## v1.0.12 (2023-11-16)
 
 - operasi_boolean
