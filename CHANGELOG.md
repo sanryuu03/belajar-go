@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.12 (2023-11-16)
+
+- operasi_boolean
+- run tanpa build => go run operasi_boolean.go
+
 ## v1.0.11 (2023-11-16)
 
 - perbandingan
