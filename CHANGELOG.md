@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.11 (2023-11-16)
+
+- perbandingan
+- run tanpa build => go run perbandingan.go
+
 ## v1.0.10 (2023-11-16)
 
 - math
