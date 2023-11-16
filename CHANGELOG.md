@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.9 (2023-11-16)
+
+- type_declaration => type declarations adalah kemampuan membuat ulang tipe data baru dari tipe data yang sudah ada
+- run tanpa build => go run type_declaration.go
+
 ## v1.0.8 (2023-11-16)
 
 - conversion => konversi tipe data
