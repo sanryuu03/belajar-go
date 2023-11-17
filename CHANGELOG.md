@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.14 (2023-11-16)
+
+- slice
+- run tanpa build => go run slice.go
+
 ## v1.0.13 (2023-11-16)
 
 - array
