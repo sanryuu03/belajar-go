@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.17 (2023-11-23)
+
+- switch
+- run tanpa build => go run switch.go
+
 ## v1.0.16 (2023-11-23)
 
 - if
