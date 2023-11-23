@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.16 (2023-11-23)
+
+- if
+- run tanpa build => go run if.go
+
 ## v1.0.15 (2023-11-23)
 
 - map
