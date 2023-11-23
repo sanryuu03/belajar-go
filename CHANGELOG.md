@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.15 (2023-11-23)
+
+- map
+- run tanpa build => go run map.go
+
 ## v1.0.14 (2023-11-16)
 
 - slice
