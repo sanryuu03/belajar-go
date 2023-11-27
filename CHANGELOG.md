@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.30 (2023-11-27)
+
+- closure
+- run tanpa build => go run closure.go
+
 ## v1.0.29 (2023-11-27)
 
 - recursive function
