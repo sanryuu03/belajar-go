@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.18 (2023-11-27)
+
+- for
+- run tanpa build => go run for.go
+
 ## v1.0.17 (2023-11-23)
 
 - switch
