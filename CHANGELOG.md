@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.20 (2023-11-27)
+
+- function
+- run tanpa build => go run function.go
+
 ## v1.0.19 (2023-11-27)
 
 - break dan continue
