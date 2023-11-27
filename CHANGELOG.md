@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.22 (2023-11-27)
+
+- function return value
+- run tanpa build => go run function_return_value.go
+
 ## v1.0.21 (2023-11-27)
 
 - function parameter
