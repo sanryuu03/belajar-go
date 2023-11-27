@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.26 (2023-11-27)
+
+- function as value
+- run tanpa build => go run function_as_value.go
+
 ## v1.0.25 (2023-11-27)
 
 - variadic function
