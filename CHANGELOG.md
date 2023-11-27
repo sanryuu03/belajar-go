@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.29 (2023-11-27)
+
+- recursive function
+- run tanpa build => go run recursive_function.go
+
 ## v1.0.28 (2023-11-27)
 
 - anonymous function
