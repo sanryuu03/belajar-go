@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.28 (2023-11-27)
+
+- anonymous function
+- run tanpa build => go run anonymous_function.go
+
 ## v1.0.27 (2023-11-27)
 
 - function as parameter
