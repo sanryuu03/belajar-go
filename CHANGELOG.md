@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.25 (2023-11-27)
+
+- variadic function
+- run tanpa build => go run variadic_function.go
+
 ## v1.0.24 (2023-11-27)
 
 - function named return values
