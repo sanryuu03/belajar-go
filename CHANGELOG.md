@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.24 (2023-11-27)
+
+- function named return values
+- run tanpa build => go run function_named_return_values.go
+
 ## v1.0.23 (2023-11-27)
 
 - function return multiple values
