@@ -1,6 +1,12 @@
 # Release Notes
 
 
+## v1.0.19 (2023-11-27)
+
+- break dan continue
+- run tanpa build => go run break.go
+- run tanpa build => go run continue.go
+
 ## v1.0.18 (2023-11-27)
 
 - for
