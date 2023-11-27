@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.27 (2023-11-27)
+
+- function as parameter
+- run tanpa build => go run function_as_parameter.go
+
 ## v1.0.26 (2023-11-27)
 
 - function as value
