@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.36 (2023-11-28)
+
+- interface kosong
+- run tanpa build => go run interface_kosong.go
+
 ## v1.0.35 (2023-11-28)
 
 - interface
