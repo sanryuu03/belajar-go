@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.32 (2023-11-28)
+
+- komentar
+- run tanpa build => go run komentar.go
+
 ## v1.0.31 (2023-11-28)
 
 - defer, panic, recover
