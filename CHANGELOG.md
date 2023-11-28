@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.39 (2023-11-28)
+
+- pointer
+- run tanpa build => go run pointer.go
+
 ## v1.0.38 (2023-11-28)
 
 - type assertions
