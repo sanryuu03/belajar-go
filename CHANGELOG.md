@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.47 (2023-11-28)
+
+- error => tanpa menghentikan application
+- run tanpa build => go run error.go
+
 ## v1.0.46 (2023-11-28)
 
 - package initialization dan blank identifier
@@ -78,7 +83,7 @@
 
 ## v1.0.31 (2023-11-28)
 
-- defer, panic, recover
+- defer, panic (error yang menghentikan application), recover
 - run tanpa build => go run defer.go
 - run tanpa build => go run panic.go
 - run tanpa build => go run recover.go
