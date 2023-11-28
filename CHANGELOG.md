@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.42 (2023-11-28)
+
+- pointer di function
+- run tanpa build => go run pointer_function.go
+
 ## v1.0.41 (2023-11-28)
 
 - operator new
