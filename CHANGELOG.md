@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.43 (2023-11-28)
+
+- pointer di method
+- run tanpa build => go run pointer_method.go
+
 ## v1.0.42 (2023-11-28)
 
 - pointer di function
