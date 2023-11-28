@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.41 (2023-11-28)
+
+- operator new
+- run tanpa build => go run operator_new.go
+
 ## v1.0.40 (2023-11-28)
 
 - asterisk operator
