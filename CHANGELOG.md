@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.40 (2023-11-28)
+
+- asterisk operator
+- run tanpa build => go run asterisk_operator.go
+
 ## v1.0.39 (2023-11-28)
 
 - pointer
