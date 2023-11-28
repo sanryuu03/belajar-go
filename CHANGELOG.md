@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.44 (2023-11-28)
+
+- package dan import
+- run tanpa build => go run import.go
+
 ## v1.0.43 (2023-11-28)
 
 - pointer di method
