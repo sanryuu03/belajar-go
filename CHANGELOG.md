@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.35 (2023-11-28)
+
+- interface
+- run tanpa build => go run interface.go
+
 ## v1.0.34 (2023-11-28)
 
 - struct method
