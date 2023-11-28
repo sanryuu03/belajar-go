@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.37 (2023-11-28)
+
+- nil
+- run tanpa build => go run nil.go
+
 ## v1.0.36 (2023-11-28)
 
 - interface kosong
