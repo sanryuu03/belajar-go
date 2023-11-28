@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.46 (2023-11-28)
+
+- package initialization dan blank identifier
+- run tanpa build => go run package_initialization.go
+
 ## v1.0.45 (2023-11-28)
 
 - access modifier
