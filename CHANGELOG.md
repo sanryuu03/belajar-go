@@ -1,6 +1,13 @@
 # Release Notes
 
 
+## v1.0.31 (2023-11-28)
+
+- defer, panic, recover
+- run tanpa build => go run defer.go
+- run tanpa build => go run panic.go
+- run tanpa build => go run recover.go
+
 ## v1.0.30 (2023-11-27)
 
 - closure
