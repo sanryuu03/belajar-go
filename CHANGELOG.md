@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.45 (2023-11-28)
+
+- access modifier
+- run tanpa build => go run access_modifier.go
+
 ## v1.0.44 (2023-11-28)
 
 - package dan import
