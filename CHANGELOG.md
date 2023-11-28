@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.33 (2023-11-28)
+
+- struct
+- run tanpa build => go run struct.go
+
 ## v1.0.32 (2023-11-28)
 
 - komentar
