@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.48 (2023-11-28)
+
+- custom error
+- run tanpa build => go run error_custom.go
+
 ## v1.0.47 (2023-11-28)
 
 - error => tanpa menghentikan application
