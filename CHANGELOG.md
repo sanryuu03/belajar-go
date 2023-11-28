@@ -1,6 +1,11 @@
 # Release Notes
 
 
+## v1.0.38 (2023-11-28)
+
+- type assertions
+- run tanpa build => go run type_assertions.go
+
 ## v1.0.37 (2023-11-28)
 
 - nil
